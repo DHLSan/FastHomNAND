@@ -28,14 +28,13 @@ THE library needs a high stack size of about 300MB. Default values should be cha
 The codes shared in this project are about the polynomial multiplication operation that limits the homomorphic Nand gate function. The homomorphic NAND gate logic gate is also accelerated in direct proportion to the acceleration coefficient of this processing.
 
 
-### What's inside in each main folder 
+## What do the files contain ?
 
-
-- ##### Vitis HLS 2020.2
+- #### Vitis HLS 2020.2
     This folder contains the generated ntt_IPS core from Vitis HLS.
-- ##### Vitis 2020.2
+- #### Vitis 2020.2
     This folder contains the C source files used for building the rest of the design as the software side of the project.
-- #### Vivado 2020.2
+- ### Vivado 2020.2
 This folder contains hardware design of project.
 
   
