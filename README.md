@@ -12,7 +12,7 @@ Fully homomorphic encryption (FHE) allows secure operation of signal processing 
 - Supervisor: Assist. Prof. Dr. Ismail San (isan@eskisehir.edu.tr)
 -  Team Number : xohw21-198
 - The Board Used In Project: Ultra96-V2
-- Youtube Link for Detailed Presentation : 
+- Youtube Link for Detailed Presentation :  https://www.youtube.com/watch?app=desktop&v=Yz9s4SajXfA&t=5s
 
 Welcome to the FastHomNAND project. This project is based on a Fully Homomorphic Libary which name is TFHE. You can find in the following link: https://github.com/tfhe/tfhe
 
