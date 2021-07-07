@@ -1,1 +1,0 @@
-This file is the source file of the block design produced in Vivado 2020.2. This file is the .src file extension of the relevant project from the workspace of Vivada 2020.2. Block design can be done again with this file.
