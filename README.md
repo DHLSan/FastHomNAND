@@ -8,8 +8,8 @@ Fully homomorphic encryption (FHE) allows secure operation of signal processing 
 
 ## Team and Project Information
 - University name: Eskisehir Technical University
-- Supervisor: Assist. Prof. Dr. Ismail San (isan@eskisehir.edu.tr)
 - Students: Batuhan Bulut (batuhanbulut@eskisehir.edu.tr)
+- Supervisor: Assist. Prof. Dr. Ismail San (isan@eskisehir.edu.tr)
 -  Team Number : xohw21-198
 - The Board Used In Project: Ultra96-V2
 - Youtube Link for Detailed Presentation : 
