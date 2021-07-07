@@ -36,6 +36,7 @@ The codes shared in this project are about the polynomial multiplication operati
     This folder contains the C source files used for building the rest of the design as the software side of the project.
 - ### Vivado 2020.2
 This folder contains hardware design of project.
-
+- ### Project Report
+This folder contains detailed report of FastHomNAND
   
 
